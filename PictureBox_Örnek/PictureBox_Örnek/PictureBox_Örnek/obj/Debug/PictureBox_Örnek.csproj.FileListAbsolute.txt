@@ -1,0 +1,11 @@
+C:\Users\cuney\OneDrive\Masaüstü\Bireysel Çalışmalar\Windows Form\3-) Picture Box\PictureBox_Örnek\PictureBox_Örnek\bin\Debug\PictureBox_Örnek.exe.config
+C:\Users\cuney\OneDrive\Masaüstü\Bireysel Çalışmalar\Windows Form\3-) Picture Box\PictureBox_Örnek\PictureBox_Örnek\bin\Debug\PictureBox_Örnek.exe
+C:\Users\cuney\OneDrive\Masaüstü\Bireysel Çalışmalar\Windows Form\3-) Picture Box\PictureBox_Örnek\PictureBox_Örnek\bin\Debug\PictureBox_Örnek.pdb
+C:\Users\cuney\OneDrive\Masaüstü\Bireysel Çalışmalar\Windows Form\3-) Picture Box\PictureBox_Örnek\PictureBox_Örnek\obj\Debug\PictureBox_Örnek.csproj.AssemblyReference.cache
+C:\Users\cuney\OneDrive\Masaüstü\Bireysel Çalışmalar\Windows Form\3-) Picture Box\PictureBox_Örnek\PictureBox_Örnek\obj\Debug\PictureBox_Örnek.csproj.SuggestedBindingRedirects.cache
+C:\Users\cuney\OneDrive\Masaüstü\Bireysel Çalışmalar\Windows Form\3-) Picture Box\PictureBox_Örnek\PictureBox_Örnek\obj\Debug\PictureBox_Örnek.Form1.resources
+C:\Users\cuney\OneDrive\Masaüstü\Bireysel Çalışmalar\Windows Form\3-) Picture Box\PictureBox_Örnek\PictureBox_Örnek\obj\Debug\PictureBox_Örnek.Properties.Resources.resources
+C:\Users\cuney\OneDrive\Masaüstü\Bireysel Çalışmalar\Windows Form\3-) Picture Box\PictureBox_Örnek\PictureBox_Örnek\obj\Debug\PictureBox_Örnek.csproj.GenerateResource.cache
+C:\Users\cuney\OneDrive\Masaüstü\Bireysel Çalışmalar\Windows Form\3-) Picture Box\PictureBox_Örnek\PictureBox_Örnek\obj\Debug\PictureBox_Örnek.csproj.CoreCompileInputs.cache
+C:\Users\cuney\OneDrive\Masaüstü\Bireysel Çalışmalar\Windows Form\3-) Picture Box\PictureBox_Örnek\PictureBox_Örnek\obj\Debug\PictureBox_Örnek.exe
+C:\Users\cuney\OneDrive\Masaüstü\Bireysel Çalışmalar\Windows Form\3-) Picture Box\PictureBox_Örnek\PictureBox_Örnek\obj\Debug\PictureBox_Örnek.pdb
